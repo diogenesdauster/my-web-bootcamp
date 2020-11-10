@@ -23,6 +23,7 @@ console.log( typeof Number);
 //troubleshooting problems
 console.log( 7 / 0 ); // Infinity type
 console.log("10" / 2);// Number
+console.log("3" + 2);// String
 console.log("10,2" / 2);// NaN (Not a Number)
 console.log("Show!" * 2);// NaN
 console.log(0.1 + 0.7 );// it is not precise
