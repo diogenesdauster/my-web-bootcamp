@@ -19,4 +19,4 @@ console.log(product);
 
 product.price = null;
 console.log(!!product.price);
-console.log(product);
+console.log(product); 
